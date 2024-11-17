@@ -6,6 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 centos
 mysql
-centos8
-centos7
-dns
+centos8.1
+centos7.9
+redhat
